@@ -6,7 +6,7 @@ This is a university machine learning project where I worked on predicting diabe
 ## Note
 This project was created for educational purposes as part of a university machine learning course. It is not intended to be used as a medical diagnosis tool.
 
-## What I Did
+## What I did
 
 I first loaded and explored the dataset to understand its structure, basic statistics and the number of people with and without diabetes.
 
@@ -18,7 +18,7 @@ After preparing the data, I separated the features from the target value and spl
 
 I used StandardScaler to scale the input features before training the models.
 
-## Models Used
+## Models used
 
 I trained and compared two classification models:
 
@@ -32,7 +32,7 @@ The results from my run were:
 
 I also evaluated the Random Forest model using a classification report and a confusion matrix.
 
-## Technologies Used
+## Technologies used
 
 - Python
 - NumPy
@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabete
 
 Because the dataset is loaded directly from the link, no separate dataset file needs to be added to the repository.
 
-## How to Run the Project
+## How to run the project
 
 First, clone or download the repository.
 
