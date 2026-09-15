@@ -6,8 +6,6 @@ This is a university machine learning project where I worked on predicting diabe
 ## Note
 This project was created for educational purposes as part of a university machine learning course. It is not intended to be used as a medical diagnosis tool.
 
-The project is written in Python and was developed in Jupyter Notebook.
-
 ## What I Did
 
 I first loaded and explored the dataset to understand its structure, basic statistics and the number of people with and without diabetes.
